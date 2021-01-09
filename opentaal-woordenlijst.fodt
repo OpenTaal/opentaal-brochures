@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2020-03-09T09:53:35.570229572</meta:creation-date><dc:date>2021-01-02T16:40:24.394834957</dc:date><meta:editing-duration>PT1H42M13S</meta:editing-duration><meta:editing-cycles>29</meta:editing-cycles><meta:generator>LibreOffice/7.0.3.1$Linux_X86_64 LibreOffice_project/00$Build-1</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="30" meta:word-count="267" meta:character-count="1902" meta:non-whitespace-character-count="1668"/></office:meta>
+ <office:meta><meta:creation-date>2020-03-09T09:53:35.570229572</meta:creation-date><dc:date>2021-01-09T16:44:31.634300744</dc:date><meta:editing-duration>PT2H8M24S</meta:editing-duration><meta:editing-cycles>35</meta:editing-cycles><meta:generator>LibreOffice/7.0.3.1$Linux_X86_64 LibreOffice_project/00$Build-1</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="24" meta:word-count="276" meta:character-count="2036" meta:non-whitespace-character-count="1731"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">20655</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">2752</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">49108</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">22862</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">23814</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">21803</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">29021</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">38652</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">6503</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">4747</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">20655</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">49107</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">43515</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">2752</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">23813</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">24553</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -85,7 +85,7 @@
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">3400997</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3488387</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -151,7 +151,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="nl" fo:country="NL" style:letter-kerning="true" style:font-name-asian="DejaVu Sans" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -421,121 +421,160 @@
    <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="0020a883" officeooo:paragraph-rsid="002e45a4" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="0020a883"/>
-  </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="0020ff21"/>
-  </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="001fd9be" officeooo:paragraph-rsid="0020ff21"/>
-  </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="001efdd8" officeooo:paragraph-rsid="001fd9be" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:paragraph-rsid="0023b704"/>
-  </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:paragraph-rsid="0025254c"/>
-  </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="0020a883"/>
-  </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="0020a883" officeooo:paragraph-rsid="0023b704"/>
-  </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:paragraph-rsid="002d91da"/>
-  </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties style:font-name="Roboto Medium" fo:font-size="16.1000003814697pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="001fd9be" officeooo:paragraph-rsid="002d91da" style:font-name-asian="DejaVu Sans" style:font-size-asian="18.2000007629395pt" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="18.2000007629395pt" style:font-weight-complex="600"/>
-  </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="00263812"/>
-  </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="00263812" officeooo:paragraph-rsid="00263812"/>
-  </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="00263812" officeooo:paragraph-rsid="002d91da"/>
-  </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0028940c"/>
-  </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0029881d"/>
-  </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="002d91da"/>
-  </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="002d91da" officeooo:paragraph-rsid="002d91da"/>
-  </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:paragraph-rsid="003387a0"/>
-  </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties fo:color="#000000" loext:opacity="100%"/>
-  </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:language="nl" fo:country="NL" officeooo:rsid="0028940c" officeooo:paragraph-rsid="0025254c"/>
-  </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:paragraph-rsid="00301041"/>
-  </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:paragraph-rsid="003387a0"/>
-  </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="002c9797" officeooo:paragraph-rsid="002d91da"/>
-  </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Medium" fo:font-size="16.1000003814697pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002d91da" officeooo:paragraph-rsid="002d91da" style:font-name-asian="DejaVu Sans" style:font-size-asian="18.2000007629395pt" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="18.2000007629395pt" style:font-weight-complex="600"/>
-  </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:paragraph-rsid="0023b704"/>
-  </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="0020a883" officeooo:paragraph-rsid="0033e525" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="001efdd8" officeooo:paragraph-rsid="0023b704" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="0020a883"/>
   </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0032c9e2"/>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:paragraph-rsid="0020ff21"/>
   </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="001fd9be" officeooo:paragraph-rsid="0020ff21"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="001efdd8" officeooo:paragraph-rsid="001fd9be" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:paragraph-rsid="0023b704"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:paragraph-rsid="0025254c"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0020a883"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0020a883" officeooo:paragraph-rsid="0023b704"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:paragraph-rsid="002d91da"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties style:font-name="Roboto Medium" fo:font-size="16.1000003814697pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="001fd9be" officeooo:paragraph-rsid="002d91da" style:font-name-asian="DejaVu Sans" style:font-size-asian="18.2000007629395pt" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="18.2000007629395pt" style:font-weight-complex="600"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:paragraph-rsid="003387a0"/>
   </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties fo:color="#000000" loext:opacity="100%"/>
   </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:language="nl" fo:country="NL" officeooo:rsid="0028940c" officeooo:paragraph-rsid="0025254c"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:paragraph-rsid="00301041"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:paragraph-rsid="003387a0"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="002c9797" officeooo:paragraph-rsid="002d91da"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Medium" fo:font-size="16.1000003814697pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002d91da" officeooo:paragraph-rsid="002d91da" style:font-name-asian="DejaVu Sans" style:font-size-asian="18.2000007629395pt" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="18.2000007629395pt" style:font-weight-complex="600"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:paragraph-rsid="0023b704"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="00263812"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00263812" officeooo:paragraph-rsid="00263812"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00263812" officeooo:paragraph-rsid="002d91da"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0028940c"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0029881d"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="002d91da"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="002d91da" officeooo:paragraph-rsid="002d91da"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0032c9e2"/>
+  </style:style>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="003387a0"/>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:color="#000000" loext:opacity="100%"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="italic" officeooo:paragraph-rsid="0032c9e2" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:paragraph-rsid="00263812"/>
   </style:style>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="002ab4c5" officeooo:paragraph-rsid="00263812"/>
   </style:style>
-  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="002d91da" officeooo:paragraph-rsid="002d91da"/>
   </style:style>
-  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:paragraph-rsid="00311361"/>
   </style:style>
-  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:paragraph-rsid="0032c9e2"/>
   </style:style>
-  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="0032c9e2" officeooo:paragraph-rsid="0032c9e2"/>
   </style:style>
-  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:paragraph-rsid="0032e48c"/>
   </style:style>
-  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:paragraph-rsid="003387a0"/>
+  </style:style>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:language="nl" fo:country="NL" officeooo:rsid="0028940c" officeooo:paragraph-rsid="0025254c"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Medium" fo:font-size="16.1000003814697pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00301041" officeooo:paragraph-rsid="00301041" style:font-name-asian="DejaVu Sans" style:font-size-asian="18.2000007629395pt" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="18.2000007629395pt" style:font-weight-complex="600"/>
+  </style:style>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Medium" fo:font-size="16.1000003814697pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002d91da" officeooo:paragraph-rsid="002d91da" style:font-name-asian="DejaVu Sans" style:font-size-asian="18.2000007629395pt" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="18.2000007629395pt" style:font-weight-complex="600"/>
+  </style:style>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="0032c9e2"/>
+  </style:style>
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="003387a0" officeooo:paragraph-rsid="003387a0"/>
+  </style:style>
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="0032e48c" officeooo:paragraph-rsid="003387a0"/>
+  </style:style>
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="002c9797" officeooo:paragraph-rsid="002d91da"/>
+  </style:style>
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="0020a883" officeooo:paragraph-rsid="0023b704"/>
+  </style:style>
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:paragraph-rsid="003387a0"/>
+  </style:style>
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="00311361" officeooo:paragraph-rsid="0032c9e2"/>
+  </style:style>
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:paragraph-rsid="00353a83"/>
+  </style:style>
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="italic" officeooo:paragraph-rsid="00353a83" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="003387a0"/>
+  </style:style>
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="00353a83"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
@@ -607,211 +646,256 @@
    <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="003387a0" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T24" style:family="text">
-   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="001fd9be" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="00353a83" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T25" style:family="text">
-   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0020ff21" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="001fd9be" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T26" style:family="text">
-   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0021bbab" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0020ff21" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T27" style:family="text">
-   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0023b704" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0021bbab" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T28" style:family="text">
-   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00263812" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0023b704" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T29" style:family="text">
-   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0028940c" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00263812" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T30" style:family="text">
-   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002c9797" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0028940c" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T31" style:family="text">
-   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002d91da" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002c9797" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T32" style:family="text">
-   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002ed4b3" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002d91da" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T33" style:family="text">
-   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0032c9e2" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002ed4b3" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T34" style:family="text">
-   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="0030e5e7" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0032c9e2" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T35" style:family="text">
-   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="002d91da" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00353a83" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T36" style:family="text">
-   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="002e45a4" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="0030e5e7" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T37" style:family="text">
-   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="002c9797" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="002d91da" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T38" style:family="text">
-   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:font-weight="normal" officeooo:rsid="001fd9be" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="002e45a4" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T39" style:family="text">
-   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:font-weight="normal" officeooo:rsid="001efdd8" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="002c9797" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T40" style:family="text">
-   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:font-weight="normal" officeooo:rsid="0020ff21" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:font-weight="normal" officeooo:rsid="001fd9be" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T41" style:family="text">
-   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:font-weight="normal" officeooo:rsid="0023b704" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:font-weight="normal" officeooo:rsid="001efdd8" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T42" style:family="text">
-   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:font-weight="normal" officeooo:rsid="0025254c" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:font-weight="normal" officeooo:rsid="0020ff21" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T43" style:family="text">
-   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:font-weight="normal" officeooo:rsid="00263812" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:font-weight="normal" officeooo:rsid="0023b704" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T44" style:family="text">
-   <style:text-properties officeooo:rsid="0020a883"/>
+   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:font-weight="normal" officeooo:rsid="0025254c" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T45" style:family="text">
-   <style:text-properties fo:language="nl" fo:country="NL"/>
+   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:font-weight="normal" officeooo:rsid="00263812" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T46" style:family="text">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="0025254c"/>
+   <style:text-properties style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:font-weight="normal" officeooo:rsid="00353a83" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T47" style:family="text">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="0028940c"/>
+   <style:text-properties officeooo:rsid="0020a883"/>
   </style:style>
   <style:style style:name="T48" style:family="text">
-   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="002ab4c5"/>
+   <style:text-properties fo:language="nl" fo:country="NL"/>
   </style:style>
   <style:style style:name="T49" style:family="text">
-   <style:text-properties officeooo:rsid="00263812"/>
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="0025254c"/>
   </style:style>
   <style:style style:name="T50" style:family="text">
-   <style:text-properties officeooo:rsid="002981fe"/>
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="0028940c"/>
   </style:style>
   <style:style style:name="T51" style:family="text">
-   <style:text-properties style:font-name="Roboto Slab" fo:font-size="10.5pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0029881d"/>
+   <style:text-properties fo:language="nl" fo:country="NL" officeooo:rsid="002ab4c5"/>
   </style:style>
   <style:style style:name="T52" style:family="text">
-   <style:text-properties style:font-name="Roboto Slab" fo:font-size="10.5pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002c9797"/>
+   <style:text-properties officeooo:rsid="00263812"/>
   </style:style>
   <style:style style:name="T53" style:family="text">
-   <style:text-properties style:font-name="Roboto Slab" fo:font-size="10.5pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002d91da"/>
+   <style:text-properties officeooo:rsid="002981fe"/>
   </style:style>
   <style:style style:name="T54" style:family="text">
-   <style:text-properties style:font-name="Roboto Slab" fo:font-size="10.5pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002e45a4"/>
+   <style:text-properties style:font-name="Roboto Slab" fo:font-size="10.5pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0029881d"/>
   </style:style>
   <style:style style:name="T55" style:family="text">
-   <style:text-properties style:font-name="Roboto Slab" fo:font-size="10.5pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00311361"/>
+   <style:text-properties style:font-name="Roboto Slab" fo:font-size="10.5pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002c9797"/>
   </style:style>
   <style:style style:name="T56" style:family="text">
-   <style:text-properties style:font-name="Roboto Slab" fo:font-size="10.5pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0032c9e2"/>
+   <style:text-properties style:font-name="Roboto Slab" fo:font-size="10.5pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002d91da"/>
   </style:style>
   <style:style style:name="T57" style:family="text">
-   <style:text-properties officeooo:rsid="0027f064"/>
+   <style:text-properties style:font-name="Roboto Slab" fo:font-size="10.5pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002e45a4"/>
   </style:style>
   <style:style style:name="T58" style:family="text">
-   <style:text-properties officeooo:rsid="002ab4c5"/>
+   <style:text-properties style:font-name="Roboto Slab" fo:font-size="10.5pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00311361"/>
   </style:style>
   <style:style style:name="T59" style:family="text">
-   <style:text-properties officeooo:rsid="002c9797"/>
+   <style:text-properties style:font-name="Roboto Slab" fo:font-size="10.5pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0032c9e2"/>
   </style:style>
   <style:style style:name="T60" style:family="text">
-   <style:text-properties officeooo:rsid="002d91da"/>
+   <style:text-properties officeooo:rsid="0027f064"/>
   </style:style>
   <style:style style:name="T61" style:family="text">
-   <style:text-properties officeooo:rsid="002e45a4"/>
+   <style:text-properties officeooo:rsid="002ab4c5"/>
   </style:style>
   <style:style style:name="T62" style:family="text">
-   <style:text-properties officeooo:rsid="002ed4b3"/>
+   <style:text-properties officeooo:rsid="002c9797"/>
   </style:style>
   <style:style style:name="T63" style:family="text">
-   <style:text-properties officeooo:rsid="00311361"/>
+   <style:text-properties officeooo:rsid="002d91da"/>
   </style:style>
   <style:style style:name="T64" style:family="text">
-   <style:text-properties style:font-name="Roboto Medium" fo:font-size="16.1000003814697pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00301041" style:font-name-asian="DejaVu Sans" style:font-size-asian="18.2000007629395pt" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="18.2000007629395pt" style:font-weight-complex="600"/>
+   <style:text-properties officeooo:rsid="002e45a4"/>
   </style:style>
   <style:style style:name="T65" style:family="text">
-   <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+   <style:text-properties officeooo:rsid="002ed4b3"/>
   </style:style>
   <style:style style:name="T66" style:family="text">
-   <style:text-properties style:text-underline-style="none"/>
+   <style:text-properties officeooo:rsid="00311361"/>
   </style:style>
   <style:style style:name="T67" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%"/>
+   <style:text-properties style:font-name="Roboto Medium" fo:font-size="16.1000003814697pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00301041" style:font-name-asian="DejaVu Sans" style:font-size-asian="18.2000007629395pt" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="18.2000007629395pt" style:font-weight-complex="600"/>
   </style:style>
   <style:style style:name="T68" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="0030e5e7" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
   </style:style>
   <style:style style:name="T69" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="002d91da" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties style:text-underline-style="none"/>
   </style:style>
   <style:style style:name="T70" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="002e45a4" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%"/>
   </style:style>
   <style:style style:name="T71" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="002c9797" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="0030e5e7" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T72" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002d91da" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="002d91da" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T73" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002ed4b3" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="002e45a4" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T74" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="0028940c" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="002c9797" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T75" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="002ed4b3" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002d91da" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T76" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="00301041" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002ed4b3" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T77" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="0030e5e7" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00353a83" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T78" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="002d91da" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="0028940c" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T79" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="00311361" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="002ed4b3" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T80" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="0032c9e2" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="00301041" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T81" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="00263812" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="0030e5e7" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T82" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="003387a0" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="002d91da" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T83" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="002c9797" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="00311361" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T84" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="002e45a4" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="0032c9e2" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T85" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-underline-style="none"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="00263812" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T86" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-underline-style="none" officeooo:rsid="0033e525"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="003387a0" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T87" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-underline-style="none" officeooo:rsid="0020a883"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="002c9797" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T88" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="002e45a4" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T89" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:rsid="0033e525"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab1" fo:font-size="10.5pt" fo:language="nl" fo:country="NL" fo:font-weight="normal" officeooo:rsid="00353a83" style:font-size-asian="10.5pt" style:font-weight-asian="normal" style:font-size-complex="10.5pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T90" style:family="text">
-   <style:text-properties officeooo:rsid="0032c9e2"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-underline-style="none"/>
   </style:style>
   <style:style style:name="T91" style:family="text">
-   <style:text-properties officeooo:rsid="0032e48c"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-underline-style="none" officeooo:rsid="0033e525"/>
   </style:style>
   <style:style style:name="T92" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-underline-style="none" officeooo:rsid="0020a883"/>
+  </style:style>
+  <style:style style:name="T93" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
+  <style:style style:name="T94" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:rsid="0033e525"/>
+  </style:style>
+  <style:style style:name="T95" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="002ab4c5"/>
+  </style:style>
+  <style:style style:name="T96" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="002d91da"/>
+  </style:style>
+  <style:style style:name="T97" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab" fo:font-size="10.5pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00311361"/>
+  </style:style>
+  <style:style style:name="T98" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab" fo:font-size="10.5pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002ab4c5"/>
+  </style:style>
+  <style:style style:name="T99" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Roboto Slab" fo:font-size="10.5pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0032c9e2"/>
+  </style:style>
+  <style:style style:name="T100" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="00311361"/>
+  </style:style>
+  <style:style style:name="T101" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="00353a83"/>
+  </style:style>
+  <style:style style:name="T102" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="002c9797"/>
+  </style:style>
+  <style:style style:name="T103" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="0032c9e2"/>
+  </style:style>
+  <style:style style:name="T104" style:family="text">
+   <style:text-properties officeooo:rsid="0032c9e2"/>
+  </style:style>
+  <style:style style:name="T105" style:family="text">
+   <style:text-properties officeooo:rsid="0032e48c"/>
+  </style:style>
+  <style:style style:name="T106" style:family="text">
    <style:text-properties officeooo:rsid="003387a0"/>
+  </style:style>
+  <style:style style:name="T107" style:family="text">
+   <style:text-properties officeooo:rsid="00353a83"/>
   </style:style>
   <text:list-style style:name="L1">
    <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
@@ -902,52 +986,28 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P48">Stichting OpenTaal <text:span text:style-name="T50">helpt </text:span><text:span text:style-name="T62">om </text:span><text:span text:style-name="T50">beter Nederlands te schrijven. </text:span><text:span text:style-name="T62">De s</text:span><text:span text:style-name="T50">pelling</text:span><text:span text:style-name="T11">­</text:span><text:span text:style-name="T50">controle op ieders computer is haar bekendste product.</text:span></text:p>
-   <text:h text:style-name="P37" text:outline-level="1">Woordenlijst</text:h>
-   <text:p text:style-name="P45"><text:span text:style-name="T72">Een woordenlijst </text:span><text:span text:style-name="T73">is een</text:span><text:span text:style-name="T72"> <text:s/></text:span><text:span text:style-name="T73">verzameling</text:span><text:span text:style-name="T72"> </text:span><text:span text:style-name="T73">van</text:span><text:span text:style-name="T74"> woorden die correct gespeld </text:span><text:span text:style-name="T75">zijn</text:span><text:span text:style-name="T74">. </text:span><text:span text:style-name="T75">Dit zijn alledaagse woorden en hun vervoegingen, maar ook specifiekere woorden </text:span><text:span text:style-name="T73">voor</text:span><text:span text:style-name="T75"> jargon, namen en archaïsch taalgebruik</text:span><text:span text:style-name="T74">. </text:span><text:span text:style-name="T76">Ook bevat de lijst veel samenstellingen.<text:line-break/><text:line-break/></text:span><text:span text:style-name="T77">Download onze woordenlijst va</text:span><text:span text:style-name="T68">n </text:span><text:a xlink:type="simple" xlink:href="https://github.com/OpenTaal/opentaal-wordlist/releases" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T69">tinyurl.com/ya9bkm9j</text:span></text:a><text:span text:style-name="T78"> </text:span><text:span text:style-name="T79">Z</text:span><text:span text:style-name="T77">ie </text:span><text:span text:style-name="T79">de </text:span><text:span text:style-name="T77">licentievoorwaarden voor gratis gebruik en </text:span><text:span text:style-name="T79">her</text:span><text:span text:style-name="T77">distributie, </text:span><text:span text:style-name="T79">voor </text:span><text:span text:style-name="T80">niet-commerciële én </text:span><text:span text:style-name="T79">commer</text:span><text:span text:style-name="T81">­</text:span><text:span text:style-name="T79">ciële </text:span><text:span text:style-name="T80">en </text:span><text:span text:style-name="T79">doeleinden.</text:span></text:p>
-   <text:h text:style-name="P38" text:outline-level="1"><text:span text:style-name="T64">Inhoud</text:span></text:h>
-   <text:p text:style-name="P49"><text:span text:style-name="T59">De collectie van OpenTaal bevat </text:span><text:span text:style-name="T90">meer dan </text:span><text:span text:style-name="T59">500.000 woorden </text:span><text:span text:style-name="T90">en </text:span><text:span text:style-name="T56">bestaat</text:span><text:span text:style-name="T63"> uit</text:span><text:span text:style-name="T59">:</text:span></text:p>
-   <text:list xml:id="list3300527893" text:style-name="L1">
-    <text:list-item>
-     <text:p text:style-name="P50">basiswoorden</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P50">flexies</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P51">eigennamen</text:p>
-     <text:list>
-      <text:list-item>
-       <text:p text:style-name="P52"><text:span text:style-name="T55">toponiemen</text:span></text:p>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P52"><text:span text:style-name="T55">personen</text:span></text:p>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P52"><text:span text:style-name="T63">organisaties</text:span></text:p>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P52"><text:span text:style-name="T63">diensten en producten</text:span></text:p>
-      </text:list-item>
-     </text:list>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P53"><text:span text:style-name="T63">Ook is er een aparte lijst van <text:s/>incorrect gespelde woorden met hun correcties.</text:span></text:p>
-   <text:p text:style-name="P53"><text:span text:style-name="T21">Sinds 1996 is d</text:span><text:span text:style-name="T8">e </text:span><text:span text:style-name="T33">lijst</text:span><text:span text:style-name="T8"> </text:span><text:span text:style-name="T25">i</text:span><text:span text:style-name="T27">s </text:span><text:span text:style-name="T33">continu verbeterd</text:span><text:span text:style-name="T27">,</text:span><text:span text:style-name="T33"> </text:span><text:span text:style-name="T21">is van hoge kwaliteit en kreeg altijd het </text:span><text:span text:style-name="T33">het </text:span><text:span text:style-name="T21">Keurmerk Spelling van de Taalunie.</text:span></text:p>
-   <text:h text:style-name="P36" text:outline-level="1"><text:soft-page-break/><text:span text:style-name="T90">Werkwijze</text:span></text:h>
-   <text:p text:style-name="P54">De meeste bijdragen komen van <text:span text:style-name="T91">online </text:span>crowdsourcing en eigen redactioneel werk.</text:p>
-   <text:p text:style-name="P55"><text:span text:style-name="T90">Er</text:span> worden open bronnen gebruikt <text:span text:style-name="T91">zo</text:span><text:span text:style-name="T90">als overheids</text:span><text:span text:style-name="T91">pu</text:span><text:span text:style-name="T11">­</text:span><text:span text:style-name="T90">blicaties </text:span><text:span text:style-name="T91">en</text:span><text:span text:style-name="T90"> </text:span>OpenStreetMap <text:span text:style-name="T90">voor Nederland, België en Suriname </text:span>en <text:span text:style-name="T90">om de lijst op actualiteit te controleren.</text:span></text:p>
-   <text:p text:style-name="P47"><text:span text:style-name="T11">Met het </text:span><text:span text:style-name="T9">Instituut voor de Nederlandse Taal </text:span><text:span text:style-name="T11">wordt er sinds 2020 samengewerkt</text:span><text:span text:style-name="T10">.</text:span></text:p>
-   <text:h text:style-name="P39" text:outline-level="1"><text:span text:style-name="T92">Maatwerk</text:span></text:h>
-   <text:p text:style-name="P56"><text:span text:style-name="T23">Uit onze database kunnen we ook maatwerklijsten maken, bijvoorbeeld met woordtype, vervoegingen, geslacht, etc. Daarnaast ontvangen we ook graag woorden die u wil bijdragen.</text:span></text:p>
-   <text:h text:style-name="P39" text:outline-level="1"><text:span text:style-name="T91">Spellingcontrole</text:span></text:h>
-   <text:p text:style-name="P56"><text:span text:style-name="T22">Let op, gebruik deze lijst niet voor spellingcontrole! Dit is verre van triviaal, </text:span><text:span text:style-name="T23">complex en wij bieden dit al aan. </text:span><text:span text:style-name="T22">Zie </text:span><text:span text:style-name="T23">onze brochure hierover.</text:span></text:p>
-   <text:h text:style-name="P40" text:outline-level="1">Taalspelletjes</text:h>
-   <text:h text:style-name="P35" text:outline-level="1"><text:span text:style-name="T82">Woordenlijsten voor </text:span><text:span text:style-name="T83">taal</text:span><text:span text:style-name="T81">­</text:span><text:span text:style-name="T83">spelletjes </text:span><text:span text:style-name="T84">en vragen over Wordfeud, </text:span><text:span text:style-name="T70">zie </text:span><text:a xlink:type="simple" xlink:href="https://taaltik.nl/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T71">taaltik.nl</text:span></text:a></text:h>
-   <text:h text:style-name="P41" text:outline-level="1">Doneer</text:h>
-   <text:p text:style-name="P49"><text:span text:style-name="T43">Stichting</text:span><text:span text:style-name="T41"> OpenTaal </text:span><text:span text:style-name="T43">is een a</text:span><text:span text:style-name="T39">lgemeen nut beogende instelling. </text:span><text:span text:style-name="T43">Doneer ook</text:span><text:span text:style-name="T41">.</text:span></text:p>
-   <text:h text:style-name="P42" text:outline-level="1"><text:span text:style-name="T44">Contact</text:span></text:h>
-   <text:p text:style-name="P13"><text:span text:style-name="T67">Stichting OpenTaal<text:line-break/></text:span><text:span text:style-name="T85">info@opentaal.org<text:line-break/>www.opentaal.org<text:line-break/></text:span><text:a xlink:type="simple" xlink:href="https://twitter.com/opentaal" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T86">twitter.com/opentaal</text:span></text:a><text:span text:style-name="T85"><text:line-break/></text:span><text:a xlink:type="simple" xlink:href="https://www.facebook.com/opentaal/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T86">facebook.com/opentaal</text:span></text:a></text:p>
+   <text:p text:style-name="P67">Stichting OpenTaal <text:span text:style-name="T53">helpt </text:span><text:span text:style-name="T107">om </text:span><text:span text:style-name="T53">beter Nederlands te schrijven. </text:span><text:span text:style-name="T107">De</text:span><text:span text:style-name="T65"> s</text:span><text:span text:style-name="T53">pellin</text:span><text:span text:style-name="T107">g</text:span><text:span text:style-name="T11">­</text:span><text:span text:style-name="T107">co</text:span><text:span text:style-name="T53">ntrole </text:span><text:span text:style-name="T107">voor</text:span><text:span text:style-name="T53"> computer</text:span><text:span text:style-name="T107">s</text:span><text:span text:style-name="T53"> is haar bekendste product.</text:span></text:p>
+   <text:h text:style-name="P31" text:outline-level="1">Woordenlijst</text:h>
+   <text:p text:style-name="P44"><text:span text:style-name="T77">Onze</text:span><text:span text:style-name="T75"> woordenlijst </text:span><text:span text:style-name="T76">is een</text:span><text:span text:style-name="T75"> <text:s/></text:span><text:span text:style-name="T76">verzameling</text:span><text:span text:style-name="T75"> </text:span><text:span text:style-name="T76">van</text:span><text:span text:style-name="T78"> woorden die correct gespeld </text:span><text:span text:style-name="T79">zijn</text:span><text:span text:style-name="T78">. </text:span><text:span text:style-name="T79">Dit zijn alledaagse woorden en hun vervoegingen, maar ook specifiekere woorden </text:span><text:span text:style-name="T76">voor</text:span><text:span text:style-name="T79"> jargon, namen en archaïsch taalgebruik</text:span><text:span text:style-name="T78">. </text:span><text:span text:style-name="T80">Ook bevat de lijst veel samenstellingen.<text:line-break/><text:line-break/></text:span><text:span text:style-name="T81">Download onze woordenlijst va</text:span><text:span text:style-name="T71">n </text:span><text:a xlink:type="simple" xlink:href="https://github.com/OpenTaal/opentaal-wordlist/releases" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T72">tinyurl.com/ya9bkm9j</text:span></text:a><text:span text:style-name="T82"> </text:span><text:span text:style-name="T83">Z</text:span><text:span text:style-name="T81">ie </text:span><text:span text:style-name="T83">de </text:span><text:span text:style-name="T81">licentievoorwaarden voor gratis gebruik en </text:span><text:span text:style-name="T83">her</text:span><text:span text:style-name="T81">distributie, </text:span><text:span text:style-name="T83">voor </text:span><text:span text:style-name="T84">niet-commerciële én </text:span><text:span text:style-name="T83">commer</text:span><text:span text:style-name="T85">­</text:span><text:span text:style-name="T83">ciële doeleinden.</text:span></text:p>
+   <text:h text:style-name="P57" text:outline-level="1">Inhoud</text:h>
+   <text:p text:style-name="P69"><text:span text:style-name="T102">De collectie van OpenTaal bevat </text:span><text:span text:style-name="T103">meer dan </text:span><text:span text:style-name="T102">500.000 woorden </text:span><text:span text:style-name="T103">en </text:span><text:span text:style-name="T99">bestaat</text:span><text:span text:style-name="T100"> uit</text:span><text:span text:style-name="T102">:</text:span></text:p>
+   <text:p text:style-name="P69"><text:span text:style-name="T70"><text:s text:c="2"/>∙</text:span><text:span text:style-name="T95"> <text:s/>basiswoorden<text:line-break/> <text:s/></text:span>∙<text:span text:style-name="T95"> <text:s/>flexies<text:line-break/> <text:s/>∙ <text:s/></text:span><text:span text:style-name="T96">eigennamen<text:line-break/> <text:s text:c="3"/></text:span><text:span text:style-name="T95"><text:s text:c="5"/>◦ <text:s/></text:span><text:span text:style-name="T97">toponiemen<text:line-break/> <text:s text:c="3"/></text:span><text:span text:style-name="T98"><text:s text:c="5"/>◦ <text:s/></text:span><text:span text:style-name="T97">personen<text:line-break/> <text:s text:c="3"/></text:span><text:span text:style-name="T98"><text:s text:c="5"/>◦ <text:s/></text:span><text:span text:style-name="T100">organisaties<text:line-break/> <text:s text:c="4"/></text:span><text:span text:style-name="T95"><text:s text:c="4"/>◦ <text:s/></text:span><text:span text:style-name="T101">producten &amp; diensten</text:span></text:p>
+   <text:p text:style-name="P65">Ook <text:span text:style-name="T107">zijn</text:span> er een aparte lijst<text:span text:style-name="T107">en</text:span> van <text:span text:style-name="T107">afgebroken woorden, woorden met spaties en </text:span>incorrect<text:span text:style-name="T107">e</text:span> <text:span text:style-name="T107">w</text:span>oorden <text:span text:style-name="T107">met</text:span> correcties.</text:p>
+   <text:p text:style-name="P52"><text:span text:style-name="T21">Sinds 1996 d</text:span><text:span text:style-name="T8">e </text:span><text:span text:style-name="T34">lijst</text:span><text:span text:style-name="T8"> </text:span><text:span text:style-name="T26">i</text:span><text:span text:style-name="T28">s </text:span><text:span text:style-name="T34">continu verbeterd. </text:span><text:span text:style-name="T35">De lijst</text:span><text:span text:style-name="T34"> </text:span><text:span text:style-name="T21">is van hoge kwaliteit en kreeg altijd het </text:span><text:span text:style-name="T34">het </text:span><text:span text:style-name="T21">Keurmerk Spelling van de </text:span><text:span text:style-name="T24"><text:s/></text:span><text:span text:style-name="T21">Taalunie </text:span><text:span text:style-name="T24">na een intensieve keuring</text:span><text:span text:style-name="T21">.</text:span></text:p>
+   <text:h text:style-name="P59" text:outline-level="1"><text:soft-page-break/>Werkwijze</text:h>
+   <text:p text:style-name="P53">De meeste bijdragen komen van <text:span text:style-name="T107">oogsten, </text:span>crowdsourcing en eigen redactioneel werk.</text:p>
+   <text:p text:style-name="P66"><text:span text:style-name="T107">O</text:span><text:span text:style-name="T104">m de lijst op actualiteit te controleren </text:span><text:span text:style-name="T107">w</text:span>orden <text:span text:style-name="T107">er </text:span>open bronnen gebruikt <text:span text:style-name="T105">zo</text:span><text:span text:style-name="T104">als overheids</text:span><text:span text:style-name="T105">p</text:span><text:span text:style-name="T107">ub</text:span><text:span text:style-name="T104">licaties </text:span><text:span text:style-name="T105">en</text:span><text:span text:style-name="T104"> </text:span>OpenStreetMap<text:span text:style-name="T104"> </text:span><text:span text:style-name="T107">van </text:span><text:span text:style-name="T104">Nederland, België en Suriname.</text:span></text:p>
+   <text:p text:style-name="P66"><text:span text:style-name="T24">Sinds 2020 wordt samen</text:span><text:span text:style-name="T11">­</text:span><text:span text:style-name="T24">gewerkt m</text:span><text:span text:style-name="T11">et het </text:span><text:span text:style-name="T9">Instituut voor de Nederlandse Taal</text:span><text:span text:style-name="T10">.</text:span></text:p>
+   <text:h text:style-name="P60" text:outline-level="1">Maatwerk</text:h>
+   <text:p text:style-name="P45"><text:span text:style-name="T86">Uit onze </text:span><text:span text:style-name="T77">collectie</text:span><text:span text:style-name="T86"> kunnen we ook maatwerklijsten </text:span><text:span text:style-name="T89">leveren</text:span><text:span text:style-name="T86">, bijvoorbeeld met woordtype, vervoegingen, geslacht, etc. Daarnaast ontvangen we ook graag woorden die u wil bijdragen.</text:span></text:p>
+   <text:h text:style-name="P61" text:outline-level="1">Spellingcontrole</text:h>
+   <text:p text:style-name="P55"><text:span text:style-name="T22">Let op, gebruik deze lijst niet voor spellingcontrole! Dit is verre van triviaal</text:span><text:span text:style-name="T23"> en wij bieden dit al aan. </text:span><text:span text:style-name="T22">Zie </text:span><text:span text:style-name="T23">onze brochure hierover.</text:span></text:p>
+   <text:h text:style-name="P34" text:outline-level="1">Taalspelletjes</text:h>
+   <text:h text:style-name="P29" text:outline-level="1"><text:span text:style-name="T89">Voor w</text:span><text:span text:style-name="T86">oordenlijsten </text:span><text:span text:style-name="T89">in</text:span><text:span text:style-name="T86"> </text:span><text:span text:style-name="T87">taal</text:span><text:span text:style-name="T85">­</text:span><text:span text:style-name="T87">spelletjes </text:span><text:span text:style-name="T88">en vragen over Wordfeud, </text:span><text:span text:style-name="T73">zie </text:span><text:a xlink:type="simple" xlink:href="https://taaltik.nl/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T74">taaltik.nl</text:span></text:a></text:h>
+   <text:h text:style-name="P35" text:outline-level="1">Doneer</text:h>
+   <text:p text:style-name="P48"><text:span text:style-name="T45">Stichting</text:span><text:span text:style-name="T43"> OpenTaal </text:span><text:span text:style-name="T45">is een a</text:span><text:span text:style-name="T41">lgemeen nut beogende instelling. </text:span><text:span text:style-name="T46">Uw donatie is van harte welkom</text:span><text:span text:style-name="T43">.</text:span></text:p>
+   <text:h text:style-name="P63" text:outline-level="1">Contact</text:h>
+   <text:p text:style-name="P13"><text:span text:style-name="T70">Stichting OpenTaal<text:line-break/></text:span><text:span text:style-name="T90">info@opentaal.org<text:line-break/>www.opentaal.org<text:line-break/></text:span><text:a xlink:type="simple" xlink:href="https://twitter.com/opentaal" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T91">twitter.com/opentaal</text:span></text:a><text:span text:style-name="T90"><text:line-break/></text:span><text:a xlink:type="simple" xlink:href="https://www.facebook.com/opentaal/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T91">facebook.com/opentaal</text:span></text:a></text:p>
   </office:text>
  </office:body>
 </office:document>
